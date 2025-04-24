@@ -1,0 +1,19 @@
+a:link {
+    color: #FF0000;
+  }
+
+  a:hover {
+    color: green;
+  }
+
+  body {
+    background-color: yellowgreen;
+  }
+
+  .photo{
+    width:400px;
+    height: 300px;
+    
+  }
+
+  
